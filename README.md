@@ -13,5 +13,6 @@
 * ### C++, Algorithms and Data Structures :keyboard:
 * ### Python :snake:
 * ### Biology :seedling:
+* ### English 
 
 ---
