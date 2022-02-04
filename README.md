@@ -1,18 +1,13 @@
 # Hi 👋
 
 ## :panda_face: About me 
-### I'm high school student. I want to become a bioinformatician and get first work. 
-
+### I'm 16 years high school student from Russia.
 ---
-
 ## 🔭 I’m currently working on
 * ### **Unemployed** 
 ---
-
 ## 🌱 I’m currently learning 
-* ### C++, Algorithms and Data Structures :keyboard:
-* ### Python :snake:
-* ### Biology :seedling:
+* ### Competitive programming(C++, Algorithms and Data Structures :keyboard:)
+* ### Data Science(a little ML and Python)
 * ### English 
-
 ---
