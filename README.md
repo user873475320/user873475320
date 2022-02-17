@@ -7,7 +7,6 @@
 * ### **Unemployed** 
 ---
 ## 🌱 I’m currently learning 
-* ### Competitive programming(C++, Algorithms and Data Structures :keyboard:)
-* ### Data Science(a little ML and Python)
+* ### Python
 * ### English 
 ---
