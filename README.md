@@ -9,5 +9,5 @@
 ## 🌱 I’m currently learning 
 * ### Python
 * ### English 
-* ### Web-development
+* ### Web-development(back end)
 ---
