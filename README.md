@@ -7,7 +7,7 @@
 * ### **Unemployed** 
 ---
 ## 🌱 I’m currently learning 
-* ### Python
+* ### Java
 * ### English 
-* ### Web-development(back end)
+* ### Web-development(backend)
 ---
