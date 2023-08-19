@@ -8,6 +8,5 @@
 ---
 ## 🌱 I’m currently learning 
 * ### Java backend
-* ### English 
 
 ---
